@@ -1,4 +1,0 @@
-[watsonx]
-apikey = "your-openai-api-key"
-project_id = "your-project-id"
-url = "https://us-south.ml.cloud.ibm.com"
